@@ -58,21 +58,7 @@ streamlit run app.py
 
 Your app should now be available at [http://localhost:8501](http://localhost:8501).
 
-## App Demo
 
-You can explore the app by visiting the following link: 
-
-[Demo](https://your-app-demo-link)
-
-## Project Structure
-
-```
-DutchMate/
-│
-├── app.py               # Main app file using Streamlit
-├── requirements.txt     # List of Python dependencies
-└── README.md            # Project documentation
-```
 
 ## Technologies Used
 
