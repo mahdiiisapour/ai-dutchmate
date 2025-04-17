@@ -1,0 +1,20 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment directories
+venv/
+
+# Streamlit session state
+*.session_state
+
+# Dependency directories
+.env/
+
+# IDE configuration files
+.vscode/
+.idea/
+
+# MacOS-specific files
+.DS_Store
