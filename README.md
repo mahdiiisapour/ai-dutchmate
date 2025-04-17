@@ -30,7 +30,7 @@ To run **DutchMate** on your local machine, follow these steps:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/DutchMate.git
+git clone https://github.com/mahdiiisapour/ai-dutchmate.git
 cd DutchMate
 ```
 
